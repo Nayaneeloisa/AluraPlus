@@ -1,4 +1,5 @@
 :root {
+:root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -114,9 +115,4 @@ grid-template-columns: 50% 50%;
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
-}
-
-.container__titulo {
-    font-size: 28px;
-    font-weight: 700;
 }
